@@ -1,4 +1,4 @@
-#Datos CDMX
+# Datos CDMX
 Exploración ociosa con datos obtenidos de [Datos Abiertos CDMX](https://datos.cdmx.gob.mx/pages/home/)
 
 ## metro.ipynb
